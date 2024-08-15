@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+click and check out :- https://text-utils-project1-gules.vercel.app/
 # TextUtilsProject1
 
  Textutils project:
